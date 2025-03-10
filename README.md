@@ -26,6 +26,8 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-041E42?style=flat&logo=seaborn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-0082F0?style=flat&logo=beautifulSoup&logoColor=white)
 
 ![Googlecolab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
