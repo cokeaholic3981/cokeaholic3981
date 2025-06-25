@@ -50,8 +50,6 @@ I'm currently **seeking full-time analyst roles** in:
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/-BeautifulSoup-8B4513?style=flat)
 
----
-
 ## 🛠 Tools
 
 **BI & Visualization**  
